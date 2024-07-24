@@ -1,8 +1,52 @@
-# React + Vite
+# E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the E-Commerce Website project! This is a modern and responsive web application designed to showcase and sell products online. The project includes features like a dynamic hero section, product cards, and more.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Dynamic Hero Section**: Showcases featured products and collections.
+- **Product Cards**: Displays product information and allows interaction.
+- **State Management**: Uses React hooks for state management and interactivity.
+- **Image Handling**: Dynamically changes images based on user interaction.
+
+## Tech Stack
+
+- **Frontend**: 
+  - React
+  - Rollup (for module bundling)
+  - Tailwind CSS (for styling)
+- **Build Tools**: 
+  - npm
+  - Vercel (for deployment)
+
+## Installation
+
+To get started with this project locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/e-commerce-website.git
+
+2. **Navigate to the Project Directory:**:
+   ```bash
+   cd e-commerce-website
+
+3. **Install Dependencies:**:
+   ```bash
+   npm install
+
+3. **Run the Development Server:**:
+   ```bash
+   npm start
+
+Your app will be available at http://localhost:3000 by default.
