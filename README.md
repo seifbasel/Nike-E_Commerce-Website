@@ -29,6 +29,11 @@ Welcome to the E-Commerce Website project! This is a modern and responsive web a
   - npm
   - Vercel (for deployment)
 
+## Live Demo
+
+You can view the live demo of the project at: [E-Commerce Website](https://e-commerce-website-awqqcn8dk-seifbasels-projects.vercel.app/)
+
+
 ## Installation
 
 To get started with this project locally, follow these steps:
