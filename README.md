@@ -55,3 +55,7 @@ To get started with this project locally, follow these steps:
    npm start
 
 Your app will be available at http://localhost:3000 by default.
+
+## License
+
+All rights reserved to © 2024 JavaScript Mastery.
